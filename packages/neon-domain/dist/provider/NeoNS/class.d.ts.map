@@ -1,0 +1,1 @@
+{"version":3,"file":"class.d.ts","sourceRoot":"","sources":["../../../src/provider/NeoNS/class.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,cAAc,EAAE,MAAM,WAAW,CAAC;AAK3C,qBAAa,KAAM,YAAW,cAAc;IAC1C,OAAO,CAAC,QAAQ,CAAS;aAEd,IAAI;gBAII,QAAQ,EAAE,MAAM;IAK5B,aAAa,CAAC,GAAG,EAAE,MAAM,EAAE,MAAM,EAAE,MAAM,GAAG,OAAO,CAAC,MAAM,CAAC;CAGnE;AAED,eAAe,KAAK,CAAC"}

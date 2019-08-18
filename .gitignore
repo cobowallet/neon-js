@@ -13,8 +13,8 @@ build
 .idea
 
 # Package stuff
-packages/**/lib
-packages/**/dist
+#packages/**/lib
+#ackages/**/dist
 
 # Typescript
 *.tsbuildinfo
